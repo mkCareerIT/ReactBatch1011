@@ -1,0 +1,1 @@
+export const devcode =() => <h1>DevCode</h1>;
