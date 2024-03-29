@@ -1,0 +1,1 @@
+export const CN = () => <h1>CN COMP</h1>
