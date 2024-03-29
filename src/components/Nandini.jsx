@@ -1,1 +1,0 @@
-export const Devcode= ()=> <h1>Devcode changes</h1>;
