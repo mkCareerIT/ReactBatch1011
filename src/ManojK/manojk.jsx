@@ -1,0 +1,1 @@
+ export const manoj=()=><h1>ManojReactJs</h1>
