@@ -1,1 +1,1 @@
-export const  Devcose=()=><h1>heeeeeeello</h1>
+export const  Devcode=()=><h1>heeeeeeello</h1>
