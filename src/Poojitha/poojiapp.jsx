@@ -1,0 +1,1 @@
+export const PoojiApp = () => <h1>Poojitha App</h1>
