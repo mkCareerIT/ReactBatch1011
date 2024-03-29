@@ -1,0 +1,1 @@
+export const  Devcose=()=><h1>heeeeeeello</h1>
