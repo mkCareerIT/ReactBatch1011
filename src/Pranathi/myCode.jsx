@@ -1,1 +1,1 @@
-export const MyCode=()=><h1>My Code changes by pranathifertyuytgjhfdfj</h1>
+export const MyCode=()=><h1>My Code changes by prani</h1>
