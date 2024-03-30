@@ -1,1 +1,1 @@
-export const viswa=()=><h1> start</h1>
+export const viswa=()=><h1> start  data</h1>
