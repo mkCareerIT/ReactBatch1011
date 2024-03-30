@@ -1,0 +1,1 @@
+export const Rt = () => <h1>RT </h1>

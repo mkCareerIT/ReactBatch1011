@@ -1,0 +1,1 @@
+export const kdata=()=> <h1>koushik component</h1>

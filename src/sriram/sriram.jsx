@@ -1,0 +1,1 @@
+export const sriram = () => <h1>Developer</h1>;
