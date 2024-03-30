@@ -1,3 +1,3 @@
-export const App=()=>{<h1>im using git hud</h1>
+export const App=()=>{<h1>im using git hub</h1>
 
 }
