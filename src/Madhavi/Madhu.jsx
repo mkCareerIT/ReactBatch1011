@@ -1,1 +1,8 @@
-export const Madhu =()=> <h1>Madhavi </h1>;
+
+const Madhu =()=>{
+<div>
+ <h1>Madhavi Components </h1>;
+ </div>
+}
+
+export default Madhu;
